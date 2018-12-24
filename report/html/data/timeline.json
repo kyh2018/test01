@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "kang-PC",
+    "children" : [ {
+      "name" : "7940-MainThread",
+      "children" : [ {
+        "name" : "TestLogin.test_a",
+        "uid" : "ad36cc746420056",
+        "parentUid" : "a6a66797cd9c7548021682a1445842a2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1545639957006,
+          "stop" : 1545639957018,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestLogin.test_b",
+        "uid" : "827f4d01d1de517f",
+        "parentUid" : "a6a66797cd9c7548021682a1445842a2",
+        "status" : "failed",
+        "time" : {
+          "start" : 1545639957019,
+          "stop" : 1545639957131,
+          "duration" : 112
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a6a66797cd9c7548021682a1445842a2"
+    } ],
+    "uid" : "9d9c1ef7c82bdd662a4f3e6691ce12a8"
+  } ]
+}
